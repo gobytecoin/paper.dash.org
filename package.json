@@ -1,8 +1,8 @@
 {
-  "name": "paper.dash.org",
-  "version": "3.1.0-dash",
+  "name": "paper.gobyte.network",
+  "version": "3.1.0-gobyte",
   "sha256sum": "61e217ab73a1d74d6de316e8d513fbff8ab0275e9bcf7bf7fc5ac47deab6c21e",
-  "description": "Open Source JavaScript Client-Side Dash Wallet Generator",
+  "description": "Open Source JavaScript Client-Side GoByte Wallet Generator",
   "main": "Gruntfile.js",
   "dependencies": {
     "grunt": "~0.4.1",
@@ -19,17 +19,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/dashpay/paper.dash.org"
+    "url": "git://github.com/gobytecoin/paper.gobyte.network"
   },
   "keywords": [
-    "dash address wallet generator"
+    "gobyte address wallet generator"
   ],
-  "author": "dash",
+  "author": "gobyte",
   "contributors": [{"name": "pointbiz"}],
   "license": "MIT",
   "readmeFilename": "README",
   "gitHead": "99519351e655ead836a3aa15a185a6ad17fd9107",
   "bugs": {
-    "url": "https://github.com/dashpay/paper.dash.org/issues"
+    "url": "https://github.com/gobytecoin/paper.gobyte.network/issues"
   }
 }

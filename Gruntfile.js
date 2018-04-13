@@ -7,7 +7,7 @@ module.exports = function (grunt) {
 		combine: {
 			single: {
 				input: "./src/bitaddress-ui.html",
-				output: "./paper.dash.org.html",
+				output: "./paper.gobyte.network.html",
 				tokens: [
 					{ token: "//array.map.js", file: "./src/array.map.js" },
 					{ token: "//biginteger.js", file: "./src/biginteger.js" },
@@ -55,7 +55,7 @@ module.exports = function (grunt) {
 					eol: 'lf'
 				},
 				files: {                // Files to process
-					'./paper.dash.org.html': ['./paper.dash.org.html']
+					'./paper.gobyte.network.html': ['./paper.gobyte.network.html']
 				}
 			}
 		}
